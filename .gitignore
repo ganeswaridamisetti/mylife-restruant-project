@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 frontend/node_modules/
 frontend/dist/
 backend/target/
+=======
+/target/
+>>>>>>> 929f6c40816de18b7ac56258a47646de476bdd69
