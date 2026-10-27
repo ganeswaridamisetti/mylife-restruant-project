@@ -1059,7 +1059,7 @@ function App() {
   const count = cart.reduce((sum, item) => sum + item.quantity, 0);
 
   return (
-    <BrowserRouter>
+   <BrowserRouter basename="/mylife-restruant-project">
       <Navbar count={count} />
 
       <Routes>
